@@ -1,2 +1,1 @@
 require './methods'
-3
