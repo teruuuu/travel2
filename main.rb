@@ -1,0 +1,2 @@
+require './methods'
+3
